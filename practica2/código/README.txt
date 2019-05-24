@@ -1,0 +1,1 @@
+python busters.py -p QLearningAgent -l laberintos/<nombreLaberinto> -k <numeroFantasmas>
